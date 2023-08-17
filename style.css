@@ -1,0 +1,35 @@
+.导航栏 {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border-bottom: 2px solid;
+}
+.右侧导航栏 {
+  display: flex;
+  margin-left: 70%;
+  gap: 20px;
+}
+.box1 {
+  width: 500px;
+  height: 300px;
+
+  border-radius: 3%;
+  border: 1px solid #000;
+}
+.box2 {
+  width: 500px;
+  height: 300px;
+  border-radius: 3%;
+  border: 1px solid #000;
+}
+.内容区盒子 {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  align-self: center;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
